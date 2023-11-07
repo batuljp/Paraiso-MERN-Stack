@@ -1,0 +1,35 @@
+.booking{
+  top: 50%;
+  left: 50%;
+  width: 30em;
+  height: 30em;
+  transform: translate(-50%, -50%);
+  /* border: 1px solid #666; */
+  background-color: aliceblue;
+  position: fixed;
+}
+input{
+  display: block;
+}
+#form_details{
+  padding: 20px;
+  align-content: center;
+}
+h4{
+  /* background-color: #666; */
+  color: aliceblue;
+  text-align: center;
+}
+.form{
+  border-radius: 20px;
+}
+
+#book{
+  position: relative;
+}
+
+/* .btn{
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+} */

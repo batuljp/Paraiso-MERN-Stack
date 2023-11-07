@@ -1,0 +1,10 @@
+/* Property card-prop-rows */
+
+.reservations {
+  margin-top: 50px;
+}
+
+#reservation-back{
+  position: relative;
+  left: 10px;
+}

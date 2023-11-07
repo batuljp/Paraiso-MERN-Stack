@@ -1,0 +1,97 @@
+[{
+  "_id": {
+    "$oid": "639550d6bbcece3964f9c381"
+  },
+  "user_id": null,
+  "property_id": "6363020d568cfc4953a4ee74",
+  "title": "Lumberton, Texas",
+  "type": "Cabins",
+  "img": "img/cottage-house-2.jpg",
+  "star": 4.95,
+  "nightlyFee": 289,
+  "tagline": "Mountain getaway"
+},{
+  "_id": {
+    "$oid": "6395513cbbcece3964f9c382"
+  },
+  "user_id": "6393dd0395e3824d10256068",
+  "property_id": "6363020d568cfc4953a4ee73",
+  "title": "Boulder, Colorado",
+  "type": "Countryside",
+  "img": "img/cottage-house-1.jpg",
+  "star": "4.95",
+  "nightlyFee": "614",
+  "tagline": "Enjoy a respite in the Countryside"
+},{
+  "_id": {
+    "$oid": "63955c1dbbcece3964f9c388"
+  },
+  "user_id": null,
+  "property_id": "6363020d568cfc4953a4ee73",
+  "title": "Boulder, Colorado",
+  "type": "Countryside",
+  "img": "img/cottage-house-1.jpg",
+  "star": "4.95",
+  "nightlyFee": "614",
+  "tagline": "Enjoy a respite in the Countryside"
+},{
+  "_id": {
+    "$oid": "63955f5ebbcece3964f9c389"
+  },
+  "user_id": null,
+  "property_id": "6363020d568cfc4953a4ee73",
+  "title": "Boulder, Colorado",
+  "type": "Countryside",
+  "img": "img/cottage-house-1.jpg",
+  "star": "4.95",
+  "nightlyFee": "614",
+  "tagline": "Enjoy a respite in the Countryside"
+},{
+  "_id": {
+    "$oid": "63955f77bbcece3964f9c38a"
+  },
+  "user_id": "6393dd0395e3824d10256068",
+  "property_id": "6363020d568cfc4953a4ee75",
+  "title": "Hot Springs, Arkansas",
+  "type": "Countryside",
+  "img": "img/cottage-house-3.jpg",
+  "star": "4.9",
+  "nightlyFee": "395",
+  "tagline": "Swim your troubles away"
+},{
+  "_id": {
+    "$oid": "639658c999f1974e1cb9cb9c"
+  },
+  "user_id": null,
+  "property_id": "6363020d568cfc4953a4ee73",
+  "title": "Boulder, Colorado",
+  "type": "Countryside",
+  "img": "img/cottage-house-1.jpg",
+  "star": "4.95",
+  "nightlyFee": "614",
+  "tagline": "Enjoy a respite in the Countryside"
+},{
+  "_id": {
+    "$oid": "639658dc99f1974e1cb9cb9d"
+  },
+  "user_id": "6393dd0395e3824d10256068",
+  "property_id": "6363020d568cfc4953a4ee73",
+  "title": "Boulder, Colorado",
+  "type": "Countryside",
+  "img": "img/cottage-house-1.jpg",
+  "star": "4.95",
+  "nightlyFee": "614",
+  "tagline": "Enjoy a respite in the Countryside"
+},{
+  "_id": {
+    "$oid": "6396592b99f1974e1cb9cb9e"
+  },
+  "user_id": "6393dd0395e3824d10256068",
+  "property_id": "6363020d568cfc4953a4ee76",
+  "title": "Hella, Iceland",
+  "type": "Arctic",
+  "img": "img/cottage-house-4.jpg",
+  "star": "4.96",
+  "nightlyFee": "527",
+  "tagline": "A once in a lifetime vacation!"
+}]

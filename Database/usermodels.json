@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "6393dd0395e3824d10256068"
+  },
+  "name": "user",
+  "email": "test@g.c",
+  "password": "$2a$10$pTSTLivMddmY6NOI5J45IOmBZMrT5H8xQ3UY2UyOweY48GkzBNdSC",
+  "host": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63966a5437447c3dbfc93b63"
+  },
+  "name": "admin",
+  "email": "test@yahoo.com",
+  "password": "$2a$10$Cm145uGl/QLpXQjA2GDT6.XWJuCfP2ozQwUlTI4zsZg3O14gniaxW",
+  "host": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6396736a45df1dd4ef2bb9a0"
+  },
+  "name": "test",
+  "email": "test@gmail.com",
+  "password": "$2a$10$PP3bmCwfOe8R9HEy2Gh1c.ZSuybvXH3zScsre0DONYyTMrSTjW4CO",
+  "host": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6397d6c25cce665aa6ed7ac8"
+  },
+  "name": "user",
+  "email": "user@user.c",
+  "password": "$2a$10$uRHEUYcFd2CdQXchVvrY7eNH8D0gJrtAD035OJ46ScwlD/1uxxING",
+  "host": false,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6397ddc65cce665aa6ed7ad4"
+  },
+  "name": "user123",
+  "email": "user123@g.c",
+  "password": "$2a$10$oOobhKm5W6NRato/mqzYCOLuRmY4Ifrpqv8B5LIE7SBxbzMwxRWT2",
+  "host": false,
+  "__v": 0
+}]

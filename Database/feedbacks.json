@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6397dca65cce665aa6ed7ad2"
+  },
+  "propertyId": "6363020d568cfc4953a4ee73",
+  "rating": 5,
+  "comment": "Hello\n",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670896806150"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670896806150"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6397ded15cce665aa6ed7ad7"
+  },
+  "propertyId": "6363020d568cfc4953a4ee73",
+  "rating": 4,
+  "comment": "Good",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1670897361101"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1670897361101"
+    }
+  },
+  "__v": 0
+}]

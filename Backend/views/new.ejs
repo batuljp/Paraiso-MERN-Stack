@@ -1,0 +1,83 @@
+<%- include('partials/header') %>
+
+<div class="container">
+<form action="/properties" method="POST">
+
+    <div class="form-group col-md-2">
+    <label>Title</label>
+    <input type="text" id="title" name="title" class="form-control">
+    </div>
+    
+    <label>Tagline</label>
+    <input type="text" id="tagline" name="tagline" class="form-control">
+    </div>
+
+    <div class="form-group col-md-2">
+    <label>Description</label>
+    <input type="text" id="description" name="description" class="form-control">
+    </div>
+
+    <div class="form-group col-md-2">
+    <label>NightlyFee</label>
+    <input type="text" id="nightlyFee" name="nightlyFee" class="form-control">
+    </div>
+
+    <div class="form-group col-md-2">
+    <label>CleaningFee</label>
+    <input type="text" id="cleaningFee" name="cleaningFee" class="form-control">
+    </div>
+
+    <div class="form-group col-md-2">
+    <label>ServiceFee</label>
+    <input type="text" id="serviceFee" name="serviceFee" class="form-control">
+    </div>
+
+
+    <div class="form-group col-md-2">
+    <label>Amentities</label>
+    <input type="text" id="amentities" name="amentities" class="form-control">
+    </div>
+
+    <div class="form-group col-md-2">
+    <label>Bedrooms</label>
+    <input type="text" id="bedrooms" name="bedrooms" class="form-control">
+    </div>
+
+    <div class="form-group col-md-2">
+    <label>Type</label>
+    <input type="text" id="type" name="type" class="form-control">
+    </div>
+
+
+    <div class="form-group col-md-2">
+    <label>star</label>
+    <input type="text" id="star" name="star" class="form-control">
+    </div>
+    
+    <div class="form-group col-md-2">
+    <label>AvailableDate</label>
+    <input type="text" id="availableDate" name="availableDate" class="form-control">
+    </div>
+
+    <div class="form-group col-md-2">
+    <label>Owner Id</label>
+    <input type="text" id="owner_id" name="owner_id" class="form-control">
+    </div>
+
+    <div class="form-group col-md-2">
+    <label>Address</label>
+    <textarea id="desc" name="address" class="form-control">
+    </textarea>
+    </div>
+
+    <div class="form-group col-md-2">
+    <button type="submit" id="add" class="btn btn-outline-dark">Add Property</button>
+    </div>
+
+</form>
+
+
+</div>
+
+
+<%- include('partials/footer') %>

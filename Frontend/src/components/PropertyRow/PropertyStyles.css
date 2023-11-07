@@ -1,0 +1,51 @@
+/* Property card-prop-rows */
+
+.card-prop-row {
+  margin: 10px;
+  bottom: 30px;
+  height: 100%;
+}
+
+.card-prop-row a {
+  display: block;
+  text-align: center;
+  margin: 10px 50px;
+  background-color: #087ba3;
+  border-color: #087ba3;
+}
+
+.card-prop-row:hover {
+  background-color: #c6eefa;
+  color: #087ba3;
+  transform: scale(1.03);
+  transition: all 1s ease;
+}
+
+.btn {
+  background-color: #087ba3;
+  border-color: #087ba3;
+  width: fit-content;
+  position: absolute;
+  bottom: 5px;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: #fff;
+  border-color: #087ba3;
+  color: #087ba3;
+  font-weight: bold;
+  transform: scale(1.03);
+  transition: all 1s ease;
+}
+
+.book {
+  position: absolute;
+  left: 70%;
+  bottom: 10px;
+  width: fit-content;
+}
+
+.card-prop-row-text {
+  margin-bottom: 40px;
+}

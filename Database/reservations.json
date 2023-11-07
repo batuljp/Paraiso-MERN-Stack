@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6395280db467c91fa0051fb3"
+  },
+  "property_id": "6363020d568cfc4953a4ee77",
+  "user_id": "6393dd0395e3824d10256068",
+  "reservation_date": "2022-12-11T00:45:01.570Z",
+  "checkIn_date": "12/27/2022",
+  "checkOut_date": "12/31/2022",
+  "email": "hi@y.c",
+  "title": "EI Port de la Selva, Spain",
+  "type": "Mansions"
+},{
+  "_id": {
+    "$oid": "63954712c7aa7a1c58073fdb"
+  },
+  "property_id": "6363020d568cfc4953a4ee80",
+  "user_id": "6393dd0395e3824d10256068",
+  "reservation_date": "2022-12-11T02:57:22.708Z",
+  "checkIn_date": "12/10/2022",
+  "checkOut_date": "12/10/2022",
+  "email": "google@gmail.com",
+  "title": "Denison, Texas",
+  "type": "Farms"
+},{
+  "_id": {
+    "$oid": "6396569f99f1974e1cb9cb9b"
+  },
+  "property_id": "6363020d568cfc4953a4ee88",
+  "user_id": "6396736a45df1dd4ef2bb9a0",
+  "reservation_date": "2022-12-08T22:15:59.272Z",
+  "checkIn_date": "12/11/2022",
+  "checkOut_date": "12/11/2022",
+  "email": "ascadwd@fsef.c",
+  "title": "Ibiza, Spain",
+  "type": "A-frames"
+}]

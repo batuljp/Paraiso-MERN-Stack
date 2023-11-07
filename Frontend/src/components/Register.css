@@ -1,0 +1,39 @@
+.register-page {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../public/img/jumbotron-img.jpg");
+    background-size: cover;
+    background-position: center center;
+    margin: 0px;
+  }
+
+.register-form {
+    width: 380px;
+    padding: 1.5rem;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+    background: #fff;
+    text-align: center;
+  }
+
+.register-title {
+    margin-bottom: 1rem;
+}
+
+.checkbox {
+    display: inline-block;
+    /* margin-top: 1em; */
+    padding-left: 10px;
+}
+
+#register-submit {
+    position: relative;
+}
+
+.register-subtext {
+    font-size: 0.8rem;
+    display: block;
+    margin: 0.5rem 0;
+  }

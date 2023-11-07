@@ -1,0 +1,428 @@
+[{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee73"
+  },
+  "title": "Boulder, Colorado",
+  "tagline": "Enjoy a respite in the Countryside",
+  "description": "Peaceful cottage far from the noise.",
+  "nightlyFee": "614",
+  "cleaningFee": "114",
+  "serviceFee": "114",
+  "amentities": "Security",
+  "bedrooms": "3",
+  "type": "Countryside",
+  "img": "img/cottage-house-1.jpg",
+  "star": "4.50",
+  "availableDate": "",
+  "owner_id": null,
+  "address": "2701 Canyon Blvd, Boulder, CO 80302",
+  "available": false
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee74"
+  },
+  "title": "Lumberton, Texas",
+  "tagline": "Mountain getaway",
+  "description": "A house on the mountain",
+  "nightlyFee": "289",
+  "cleaningFee": "189",
+  "serviceFee": "189",
+  "amentities": "Wi-fi",
+  "bedrooms": "1",
+  "type": "Cabins",
+  "img": "img/cottage-house-2.jpg",
+  "star": "4.95",
+  "availableDate": "",
+  "owner_id": "6396736a45df1dd4ef2bb9a0",
+  "address": "131 N Lhs Dr, Lumberton, TX 77657",
+  "available": true
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee75"
+  },
+  "title": "Hot Springs, Arkansas",
+  "tagline": "Swim your troubles away",
+  "description": "A house with a swimming pool",
+  "nightlyFee": "395",
+  "cleaningFee": "195",
+  "serviceFee": "195",
+  "amentities": "Swimming pool",
+  "bedrooms": "2",
+  "type": "Countryside",
+  "img": "img/cottage-house-3.jpg",
+  "star": "4.9",
+  "availableDate": "",
+  "owner_id": null,
+  "address": "1871 E Grand Ave, Hot Springs, AR 71901",
+  "available": true
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee76"
+  },
+  "title": "Hella, Iceland",
+  "tagline": "A once in a lifetime vacation!",
+  "description": "Glass house",
+  "nightlyFee": "527",
+  "cleaningFee": "127",
+  "serviceFee": "127",
+  "amentities": "Large windows and natural light",
+  "bedrooms": "1",
+  "type": "Arctic",
+  "img": "img/cottage-house-4.jpg",
+  "star": "4.96",
+  "availableDate": "",
+  "owner_id": null,
+  "address": "Rangá (Þykkvabæjarvegur, road no. 25), Hella, Iceland",
+  "available": false
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee77"
+  },
+  "title": "EI Port de la Selva, Spain",
+  "tagline": "Family trip to Spain",
+  "description": "Nice house",
+  "nightlyFee": 475,
+  "cleaningFee": 175,
+  "serviceFee": 175,
+  "amentities": "Smart-home features",
+  "bedrooms": 2,
+  "type": "Mansions",
+  "img": "img/cottage-house-5.jpg",
+  "star": 4.75,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": {
+    "$oid": "6363020d568cfc4953a4ee20"
+  },
+  "address": "C. Major, 59, 17489 El Port de la Selva, Girona, Spain",
+  "available": true
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee78"
+  },
+  "title": "Joshua Tree, California",
+  "tagline": "A magnificient view of the desert",
+  "description": "Towers with good view",
+  "nightlyFee": 320,
+  "cleaningFee": 120,
+  "serviceFee": 120,
+  "amentities": "Parking",
+  "bedrooms": 1,
+  "type": "Towers",
+  "img": "img/cottage-house-6.jpg",
+  "star": 4.96,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": {
+    "$oid": "6363020d568cfc4953a4ee20"
+  },
+  "address": "62209 Verbena Rd, Joshua Tree, CA 92252",
+  "available": false
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee79"
+  },
+  "title": "Mesa County, Colorado",
+  "tagline": "On the mountain, away in the wild",
+  "description": "On the mountain",
+  "nightlyFee": 347,
+  "cleaningFee": 147,
+  "serviceFee": 147,
+  "amentities": "Pet areas",
+  "bedrooms": 1,
+  "type": "A-frames",
+  "img": "img/cottage-house-7.jpg",
+  "star": 4.98,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": {
+    "$oid": "6363020d568cfc4953a4ee23"
+  },
+  "address": "743 Horizon Dr, Grand Junction, CO 81506",
+  "available": true
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee80"
+  },
+  "title": "Denison, Texas",
+  "tagline": "Your very own ranch!",
+  "description": "A house besides farms",
+  "nightlyFee": 549,
+  "cleaningFee": 149,
+  "serviceFee": 149,
+  "amentities": "Green spaces",
+  "bedrooms": 1,
+  "type": "Farms",
+  "img": "img/cottage-house-8.jpg",
+  "star": "3.00",
+  "availableDate": "2022-11-15T06:00:00.000Z",
+  "owner_id": "6363020d568cfc4953a4ee23",
+  "address": "801 N US Hwy 75, Denison, TX 75020",
+  "available": true
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee81"
+  },
+  "title": "Ichinoseki-shi, Japan",
+  "tagline": "Enjoy Japanese culture",
+  "description": "Traditional Japanese house",
+  "nightlyFee": 31,
+  "cleaningFee": 30,
+  "serviceFee": 30,
+  "amentities": "Central air condition",
+  "bedrooms": 5,
+  "type": "Ryokans",
+  "img": "img/cottage-house-9.jpg",
+  "star": 4.88,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": "6363020d568cfc4953a4ee23",
+  "address": "Santanda-179 Yamanome, Ichinoseki, Iwate 021-0051, Japan"
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee82"
+  },
+  "title": "Soneva, Maldives",
+  "tagline": "Luxury on an island",
+  "description": "Private beach island villa",
+  "nightlyFee": 614,
+  "cleaningFee": 114,
+  "serviceFee": 114,
+  "amentities": "Security",
+  "bedrooms": 3,
+  "type": "Island",
+  "img": "img/cottage-house-10.jpg",
+  "star": 4.95,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": {
+    "$oid": "6363020d568cfc4953a4ee24"
+  },
+  "address": "Kunfunadhoo Island, Eydhafushi, Maldives",
+  "available": true
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee83"
+  },
+  "title": "Easter Island, Chile",
+  "tagline": "The heart of tourism in Chile",
+  "description": "A house on the mountain",
+  "nightlyFee": 289,
+  "cleaningFee": 189,
+  "serviceFee": 189,
+  "amentities": "Wi-fi",
+  "bedrooms": 1,
+  "type": "Cabins",
+  "img": "img/cottage-house-11.jpg",
+  "star": 4.89,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": {
+    "$oid": "6363020d568cfc4953a4ee24"
+  },
+  "address": "Easter Island, Valparaíso, Chile"
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee84"
+  },
+  "title": "Cape Town, South Africa",
+  "tagline": "Enjoy the best of Cape Town",
+  "description": "A nice house",
+  "nightlyFee": 395,
+  "cleaningFee": 195,
+  "serviceFee": 195,
+  "amentities": "Swimming pool",
+  "bedrooms": 2,
+  "type": "Countryside",
+  "img": "img/cottage-house-12.jpg",
+  "star": 4.9,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": {
+    "$oid": "6363020d568cfc4953a4ee24"
+  },
+  "address": "Private Bag X9181, Cape Town, 8000",
+  "available": "true"
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee85"
+  },
+  "title": "Brighton, United Kingdom",
+  "tagline": "Beauty of Brighton",
+  "description": "Glass house",
+  "nightlyFee": 527,
+  "cleaningFee": 127,
+  "serviceFee": 127,
+  "amentities": "Large windows and natural light",
+  "bedrooms": 1,
+  "type": "Arctic",
+  "img": "img/cottage-house-13.jpg",
+  "star": 4.96,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": "6363020d568cfc4953a4ee24",
+  "address": "64 Kings Rd, Brighton BN1 1NA, United Kingdom",
+  "available": true
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee86"
+  },
+  "title": "Lonavala, India",
+  "tagline": "Culture and much more",
+  "description": "Nice house",
+  "nightlyFee": 475,
+  "cleaningFee": 175,
+  "serviceFee": 175,
+  "amentities": "Smart-home features",
+  "bedrooms": 2,
+  "type": "Mansions",
+  "img": "img/cottage-house-14.jpg",
+  "star": 4.75,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": {
+    "$oid": "6363020d568cfc4953a4ee23"
+  },
+  "address": "D T Shahani Road, near Telephone Exchange, Lonavla, Maharashtra 410401, India",
+  "available": true
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee87"
+  },
+  "title": "Istanbul, Turkey",
+  "tagline": "Food & people will make you stay",
+  "description": "A big house",
+  "nightlyFee": 320,
+  "cleaningFee": 120,
+  "serviceFee": 120,
+  "amentities": "Parking",
+  "bedrooms": 1,
+  "type": "Towers",
+  "img": "img/cottage-house-15.jpg",
+  "star": 4.96,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": {
+    "$oid": "6363020d568cfc4953a4ee23"
+  },
+  "address": "Atatürk, Estergon Cd. No:4, 34764 Ümraniye/İstanbul, Turkey",
+  "available": true
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee88"
+  },
+  "title": "Ibiza, Spain",
+  "tagline": "What can we say about Ibiza?",
+  "description": "On the mountain",
+  "nightlyFee": 347,
+  "cleaningFee": 147,
+  "serviceFee": 147,
+  "amentities": "Pet areas",
+  "bedrooms": 1,
+  "type": "A-frames",
+  "img": "img/cottage-house-16.jpg",
+  "star": 4.98,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": {
+    "$oid": "6363020d568cfc4953a4ee20"
+  },
+  "address": "Carrer na Xamena, 07815 Ibiza, Illes Balears, Spain",
+  "available": true
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee89"
+  },
+  "title": "Kyiv, Ukraine",
+  "tagline": "The history is unreal",
+  "description": "A house besides farms",
+  "nightlyFee": 549,
+  "cleaningFee": 149,
+  "serviceFee": 149,
+  "amentities": "Gree spaces",
+  "bedrooms": 1,
+  "type": "Farms",
+  "img": "img/cottage-house-17.jpg",
+  "star": 4.6,
+  "availableDate": {
+    "$date": {
+      "$numberLong": "1668492000000"
+    }
+  },
+  "owner_id": {
+    "$oid": "6363020d568cfc4953a4ee20"
+  },
+  "address": "Bessarabs'ka Square, 2, Kyiv, Ukraine, 01004",
+  "available": true
+},{
+  "_id": {
+    "$oid": "6363020d568cfc4953a4ee90"
+  },
+  "title": "Amsterdam, Netherlands",
+  "tagline": "Welcome to Amsterdam",
+  "description": "Netherland Beauty.",
+  "nightlyFee": 31,
+  "cleaningFee": 30,
+  "serviceFee": 30,
+  "amentities": "Central air condition",
+  "bedrooms": 5,
+  "type": "Ryokans",
+  "img": "img/cottage-house-18.jpg",
+  "star": 4.88,
+  "availableDate": "2022-11-15T06:00:00.000Z",
+  "owner_id": null,
+  "address": "Herengracht 542-556, 1017 CG Amsterdam, Netherlands",
+  "available": false
+},{
+  "_id": {
+    "$oid": "63967cbbb3a0860280d150af"
+  },
+  "title": "test",
+  "tagline": "test",
+  "description": "test",
+  "nightlyFee": "123",
+  "cleaningFee": "23",
+  "serviceFee": "123",
+  "amentities": "",
+  "bedrooms": "",
+  "type": "",
+  "img": "img/",
+  "star": "",
+  "availableDate": "",
+  "owner_id": null,
+  "address": "",
+  "available": false
+}]

@@ -1,0 +1,35 @@
+<%- include('partials/header') %>
+
+<div class="container-fluid">
+
+    <h1>Property Details</h1>
+
+    <p><img src="<%= property.img %>"/></p>
+    <p>Title: <%= property.title %></p>
+	<p>Tagline: <%= property.tagline %></p>
+    <p>Description:<%= property.description %></p>
+    <p>NightlyFee: <%= property.nightlyFee %></p>
+    <p>CleaningFee: <%= property.cleaningFee %></p>
+    <p>ServiceFee: <%= property.serviceFee %></p>
+	<p>Amentities: <%= property.amentities %></p>
+    <p>Bedrooms: <%= property.bedrooms %></p>
+    <p>Type: <%= property.type %></p>
+    <p>Star: <%= property.star %></p>
+    <p>AvailableDate: <%= property.availableDate %></p>
+    <p>Owner_id: <%= property.owner_id %></p>
+    <p>Address:<%= property.address %></p>
+
+    <a class="btn btn-warning" href="/properties/<%= property._id %>/edit" role="button">Edit Property</a>
+
+    <form method="POST" action="/properties/<%= property._id %>?_method=DELETE">
+        <button type="submit" class="btn btn-danger">Delete Property</button>
+    </form>
+<p>
+<a href="/properties">Back to list</a>
+
+</p>
+</div>
+
+
+
+<%- include('partials/footer') %>

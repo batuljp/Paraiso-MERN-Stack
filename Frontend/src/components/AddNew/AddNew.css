@@ -1,0 +1,101 @@
+
+img {
+  max-width: 100%;
+  height: auto; }
+
+figure {
+  margin: 0; }
+
+h2 {
+  line-height: 1.66;
+  margin: 0;
+  padding: 0;
+  font-weight: 700;
+  color: #222;
+  font-family: 'Montserrat';
+  font-size: 20px;
+  text-transform: uppercase;
+  margin-bottom: 32px;
+  text-align: center;
+ }
+
+body {
+  font-size: 13px;
+  line-height: 1.8;
+  font-weight: 400;
+  /* background-image: url("/img/jumbotron-img.jpg"); */
+  background-size: cover;
+  padding: 90px 0; }
+
+.container {
+  width: 1400px;
+  position: relative;
+  margin: 0 auto;
+  background: #fff; }
+
+.form-row {
+  margin: 0 -15px; }
+  .form-row .form-group {
+    width: 50%;
+    padding: 0 15px; }
+
+.form-group {
+  margin-bottom: 23px;
+  position: relative; }
+
+  .form-row {
+    flex-direction: column;
+    -moz-flex-direction: column;
+    -webkit-flex-direction: column;
+    -o-flex-direction: column;
+    -ms-flex-direction: column;
+    margin: 0px; }
+
+  .form-row .form-group {
+    width: 100%;
+    padding: 0px; }
+
+input[type=checkbox] {
+  position: relative;
+  bottom: 1px;
+  float: left;
+  left: 0px;
+}
+
+input, select {
+  display: block;
+  width: 100%;
+  border: 1px solid #ebebeb;
+  padding: 11px 20px;
+  box-sizing: border-box;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  font-size: 13px; }
+  input:focus, select:focus {
+    border: 1px solid #ff6801; }
+
+label {
+  font-size: 14px;
+  font-weight: bold;
+  font-family: 'Montserrat';
+  margin-bottom: 2px;
+  display: block; }
+
+select {
+  position: relative;
+  background: 0 0;
+  z-index: 10;
+  cursor: pointer; }
+
+/* .form-submit {
+  left: 0%;
+  padding-top: 27px;
+  position: relative;
+} */
+.back{
+  float: left;
+}
+
+.form-submit{
+  float: right;
+}
